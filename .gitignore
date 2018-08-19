@@ -1,0 +1,9 @@
+.idea/
+*.iml
+*.tfvars
+kubeconfig
+credentials.json
+.terraform
+terraform.tfstate
+.DS_Store
+tfplan
